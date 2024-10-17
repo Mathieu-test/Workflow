@@ -11,5 +11,5 @@ function greet(user) {
     return `Bonjour, ${user}!`;
 }
 
-const user = "Mathieu";
+const user = "John Doe";
 console.log(greet(user));
